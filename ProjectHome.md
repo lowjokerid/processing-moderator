@@ -1,0 +1,1 @@
+Gives you possibility to mix Java/JS/Android code in one project and automagically comments/uncomments selected parts
